@@ -14,7 +14,6 @@ const router = (
 	    <Route path="/" component={Main}>
 	    	<IndexRoute component={About} />
 	        <Route path="about" component={About} />
-	        <Route path="skills" component={Skills} />
 	        <Route path="projects" component={Projects} />
 	    </Route>
 	</Router>

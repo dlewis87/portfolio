@@ -56,7 +56,9 @@ body {
 }
 
 .languages img {
-  width: 300px;
+  max-width: 200px;
+  max-height: 115px;
+  margin: auto;
 }
 
 .projects {
@@ -137,5 +139,9 @@ body {
 
 .skills li {
 	font-size: 19px;
+}
+
+.footer {
+	margin-top: 40px
 }
 

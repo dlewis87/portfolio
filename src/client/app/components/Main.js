@@ -16,7 +16,6 @@ const Main = (props) => (
   			<div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         		<ul className="nav navbar-nav">
         			<li><Link to="/about">About</Link></li>
-          			<li><Link to="/skills">Skills</Link></li>
           			<li><Link to="/projects">Projects</Link></li>
         		</ul>
   			</div>
