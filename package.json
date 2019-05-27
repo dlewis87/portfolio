@@ -57,7 +57,7 @@
     "redux-devtools": "^3.3.1",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
-    "webpack": "^1.13.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^1.14.1"
   }
 }
